@@ -1,0 +1,16 @@
+{
+  "name": "simple-logger",
+  "version": "0.1.0",
+  "description": "a better logger than console.log()",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test" : "node test.js"
+  },
+  "author": "elyas ghasemi [egh1374@gmail]",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "jalaali-js": "^1.0.0"
+  }
+}
