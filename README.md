@@ -1,3 +1,6 @@
+##DEPRECATED
+Now I use [winston](https://github.com/winstonjs/winston) for logger and it's reallly nice.
+
 # simple-logger
 a very basic logger for nodejs, better than raw console.log()
 
